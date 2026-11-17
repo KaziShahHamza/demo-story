@@ -1,0 +1,11 @@
+{
+  "name": "demo-story-tools",
+  "displayName": "Demo Story Tools",
+  "version": "0.2.0",
+  "description": "Multi-agent story writing, lore continuity, and code/lore review bundle for the demo-story Harry Potter Series 1 practice project.",
+  "suggestedPrompts": [
+    "Draft the next episode in an isolated git worktree",
+    "Review the open episode PR for lore continuity and test coverage",
+    "Resolve merge conflicts in CHARACTERS.md and TIMELINE.md"
+  ]
+}
