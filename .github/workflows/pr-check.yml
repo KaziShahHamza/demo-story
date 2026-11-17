@@ -1,0 +1,29 @@
+name: Episode & Lore PR Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-episodes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate episode frontmatter
+        run: |
+          shopt -s nullglob
+          files=(episodes/*.md)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No episode markdown files yet; skipping."
+            exit 0
+          fi
+          for f in "${files[@]}"; do
+            echo "Checking $f..."
+            grep -q "^episodeNumber:" "$f" || { echo "Missing episodeNumber in $f"; exit 1; }
+            grep -q "^title:" "$f" || { echo "Missing title in $f"; exit 1; }
+            grep -q "^releaseDate:" "$f" || { echo "Missing releaseDate in $f"; exit 1; }
+            grep -q "^summary:" "$f" || { echo "Missing summary in $f"; exit 1; }
+          done
+          echo "All episode frontmatter fields present."
