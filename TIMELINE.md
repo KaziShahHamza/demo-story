@@ -7,6 +7,6 @@
 | :--- | :--- | :--- |
 | Ep 01 | November 1, 1981 | Dumbledore, McGonagall, and Hagrid leave infant Harry on the Dursleys' doorstep at Privet Drive. |
 | Ep 02 | Summer 1991 | The Hogwarts letters reach Harry at the Dursleys' home; Vernon and Petunia flee with the family, but Rubeus Hagrid finds Harry on an island cottage. |
-| Ep 03 | July 31, 1991 | *(Pending Ep 03 PR)* |
+| Ep 03 | July 31, 1991 | Hagrid takes Harry through the Leaky Cauldron and Diagon Alley, retrieves the Vault 713 package from Gringotts, and helps Harry receive his holly and phoenix-feather wand at Ollivanders. |
 | Ep 04 | September 1, 1991 | *(Pending Ep 04 PR)* |
 | Ep 05 | September 1, 1991 (Evening) | *(Pending Ep 05 PR)* |
