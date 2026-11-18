@@ -9,9 +9,9 @@
 - **Hermione Granger:** *(Appears in Ep 04)*
 
 ## Hogwarts Staff & Allies
-- **Albus Dumbledore:** Headmaster of Hogwarts; carries a silver Put-Outer; leaves Harry at Privet Drive with a sealed letter (Ep 01).
-- **Minerva McGonagall:** Transfiguration professor and Animagus (tabby cat); watches Privet Drive (Ep 01).
-- **Rubeus Hagrid:** Keeper of Keys at Hogwarts; rescues infant Harry from Godric's Hollow on Sirius Black's flying motorbike (Ep 01).
+- **Albus Dumbledore:** *(Updated as episodes merge)*
+- **Minerva McGonagall:** *(Updated as episodes merge)*
+- **Rubeus Hagrid:** Hogwarts gamekeeper and Keeper of Keys; arrives at the island cottage to deliver Harry's letter and reveal his wizarding identity.
 
 ## Antagonists & Others
 - **The Dursleys (Vernon, Petunia, Dudley):** Perfectly normal Muggle family at number four, Privet Drive; Harry's reluctant guardians (Ep 01).
