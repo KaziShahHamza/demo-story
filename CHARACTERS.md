@@ -4,7 +4,7 @@
 > Shared world-building file. Parallel episode branches intentionally update this file to practice resolving merge conflicts cleanly.
 
 ## Main Characters
-- **Harry Potter:** A neglected boy who discovers the first Hogwarts letters addressed to him; curious and increasingly determined to learn the truth about his past.
+- **Harry Potter:** Infant survivor of Voldemort's curse; bears a lightning-bolt scar on his forehead; left on the Dursleys' doorstep in Ep 01.
 - **Ron Weasley:** *(Appears in Ep 04)*
 - **Hermione Granger:** *(Appears in Ep 04)*
 
@@ -14,5 +14,5 @@
 - **Rubeus Hagrid:** Hogwarts gamekeeper and Keeper of Keys; arrives at the island cottage to deliver Harry's letter and reveal his wizarding identity.
 
 ## Antagonists & Others
-- **The Dursleys (Vernon, Petunia, Dudley):** Harry's resentful relatives, who intercept the Hogwarts letters and flee with the family to prevent him from entering the wizarding world.
+- **The Dursleys (Vernon, Petunia, Dudley):** Perfectly normal Muggle family at number four, Privet Drive; Harry's reluctant guardians (Ep 01).
 - **Draco Malfoy:** *(Appears in Ep 03/04)*
